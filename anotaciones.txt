@@ -1,0 +1,9 @@
+"status 401: error de autenticacion (error de login)
+status 403: error de autorización (forbidden)"
+
+npm i bcrypt
+
+firmar una cookie: hacer que no se puedan modificar desde el navegador
+tiempo de vida: luego se eliminan del navegador
+
+npm i cookie-parser
